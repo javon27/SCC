@@ -52,3 +52,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# desktop/dropbox files
+desktop.ini
+.dropbox
