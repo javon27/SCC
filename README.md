@@ -1,4 +1,4 @@
 SCC
 ===
 
-Python program showcasing algorithm for finding Strongly Connected Components in graphs.
+Python 3 program showcasing algorithm for finding Strongly Connected Components in graphs.
